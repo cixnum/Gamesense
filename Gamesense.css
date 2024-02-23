@@ -171,7 +171,7 @@ body {
 }
 
 #brdmenu li {
-	margin: 0 12px 0 12px !important;
+	margin-right: 12px !important;
 }
 
 .pun ul {
