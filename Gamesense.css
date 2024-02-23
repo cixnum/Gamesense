@@ -91,6 +91,11 @@ body {
 	margin: 12px 0 16px 0;
 }
 
+#navnotifications {
+	text-align: left !important;
+	margin-right: 0;
+}
+
 /* Rainbow bar */
 #skeetbar {
 	content: '';
