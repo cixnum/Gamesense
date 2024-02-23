@@ -11,7 +11,7 @@
 
 body {
 	color: #d4d4d3;
-	position: fixed;
+	position: relative;
 	background-color: black;
 	background-size: cover;
 	background-image: radial-gradient(transparent, black), url("https://i.imgur.com/VPKGs4a.png");
@@ -23,6 +23,7 @@ body {
 }
 
 #particles-js{
+	position: absolute;
 	height: 100%;
 	background: black;
 }
