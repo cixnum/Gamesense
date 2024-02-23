@@ -226,6 +226,7 @@ body {
 }
 
 #shout .chatBot {
+	content: 'UwU';
 	color: #ff8080;
 	font-weight: bold;
 }
