@@ -96,6 +96,10 @@ body {
 	margin-right: 0;
 }
 
+.fa-lg {
+	text-align: left !important;
+}
+
 /* Rainbow bar */
 #skeetbar {
 	content: '';
