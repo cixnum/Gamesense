@@ -92,7 +92,11 @@ body {
 }
 
 #navnotifications {
-	margin: 0 12px 0 12px;
+	margin: 0;
+}
+
+.fa-lg {
+	line-height: 0;
 }
 
 /* Rainbow bar */
