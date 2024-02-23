@@ -170,6 +170,10 @@ body {
 	vertical-align: middle;
 }
 
+#brdmenu {
+	margin: 0 12px 0 12px !important;
+}
+
 .pun ul {
 	font-family: "Roboto", sans-serif !important;
 }
