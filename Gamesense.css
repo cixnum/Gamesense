@@ -92,7 +92,6 @@ body {
 }
 
 #navnotifications {
-	margin-right: 12px !important;
 	vertical-align: middle !important;
 }
 
@@ -172,7 +171,7 @@ body {
 }
 
 #brdmenu li {
-	margin: 0 !important;
+	margin: 0 12px 0 12px !important;
 }
 
 .pun ul {
