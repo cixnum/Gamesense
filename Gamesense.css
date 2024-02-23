@@ -22,7 +22,7 @@ body {
 	height: 100vh;
 }
 
-#particles-js{
+#particles-js canvas{
 	position: absolute;
 	height: 100%;
 	background: black;
