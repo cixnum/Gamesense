@@ -11,26 +11,20 @@
 
 body {
 	color: #d4d4d3;
+	position: fixed;
 	background-color: black;
 	background-size: cover;
 	background-image: radial-gradient(transparent, black), url("https://i.imgur.com/VPKGs4a.png");
 	background-repeat: no-repeat;
-	background-attachment: fixed;
 	background-position: center;
+	margin: 0;
+	padding: 0;
+	height: 100vh;
 }
 
 #particles-js{
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100%;
 	height: 100%;
-	background-color: black;
-	background-image: url('');
-	background-size: cover;
-	background-position: 50% 50%;
-	background-repeat: no-repeat;
-	z-index: 9999;
+	background: black;
 }
 
 #punindex .blocktable {
