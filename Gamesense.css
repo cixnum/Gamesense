@@ -92,7 +92,7 @@ body {
 }
 
 /* Rainbow bar */
-#brdheader:after {
+#skeetbar {
 	content: '';
 	height: 2px;
   	width: auto;
@@ -582,7 +582,7 @@ body {
 	box-shadow: 0 0 12px black;
 }
    
-#brdfooter.block:after {
+#watermark {
 	content: 'Theme created by cixnum';
 	color: white;
 	font-size: 11px;
