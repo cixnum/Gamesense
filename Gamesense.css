@@ -93,6 +93,7 @@ body {
 
 #navnotifications {
 	margin-right: 12px !important;
+	vertical-align: middle !important;
 }
 
 .fa-lg {
