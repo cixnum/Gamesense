@@ -80,16 +80,6 @@ body {
         visibility: hidden;
 }
 
-/* The fuck is a gamesense? */
-#brdtitle h1 a span:after {
-        position: absolute;
-        content: "sneeze";
-        visibility: visible;
-        display: inline-flex;
-        margin-left: -86px;
-        padding: 2px;
-}
-
 #brdtitle h1 a {
 	color: #eaeaea;
 }
@@ -174,11 +164,6 @@ body {
 
 .pun ul {
 	font-family: "Roboto", sans-serif !important;
-}
-
-#navnotifications {
-	margin-right: -13px;
-	padding: 0;	
 }
 
 .fa-bell {
