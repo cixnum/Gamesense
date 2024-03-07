@@ -95,10 +95,6 @@ body {
 	vertical-align: middle !important;
 }
 
-.fa-lg {
-	line-height: 0 !important;
-}
-
 /* Rainbow bar */
 #skeetbar {
 	content: '';
